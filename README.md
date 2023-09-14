@@ -3,9 +3,13 @@
 Este proyecto es parte del entrenamiento de react native para verificar lo aprendido acerca de sus componentes y su uso, en este caso en una vista la cual contiene 3 segmentos el cual contiene informacion diferentes del usuario asi como informacion basica, pasatiempos y libros favoritos
 
 1.-Necesitas descargar el proyecto.
+
 2.-Una vez hecho eso tendria que descomprimir los archivos
+
 3.-Luego abrira la carpeta del proyecto con su editor de codigo (Visual Studio Code)
+
 4.-Instalara npm en la carpeta de entrenamiento para poder instalar node_modules
+
  ![image](https://github.com/TheVoidZero/entrenamiento/assets/106509450/d0445bcd-9e9f-4386-b529-aa206104dc6d)
 
 5.-Instalara pods en la carpeta de iOS
